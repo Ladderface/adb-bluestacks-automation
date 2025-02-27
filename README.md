@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADB Блюстакс Автоматизация
 
 Многопоточный и асинхронный инструмент для автоматизации работы с Android-эмуляторами BlueStacks 5 через протокол ADB.
@@ -170,3 +171,7 @@ scheduler:
 
 - [adbutils](https://github.com/openatx/adbutils) - Библиотека для работы с ADB
 - [OpenCV](https://opencv.org/) - Библиотека компьютерного зрения
+=======
+# adb-bluestacks-automation
+ "Многопоточная асинхронная автоматизация для BlueStacks через AD
+>>>>>>> 5c9e728ff5ea4081d51202fcd6c5629254526ca1
